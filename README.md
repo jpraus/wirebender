@@ -2,6 +2,8 @@
 
 Precise wire bending CNC machine for wires at 1mm and less in diameter.
 
+Current version: **1.0** (2019-07-29)
+
 ![Wire Bending CNC](https://raw.githubusercontent.com/jpraus/wirebender/master/doc/DSC02872.JPG)
 
 Goal:
@@ -20,11 +22,13 @@ It's still work in progress I will add more resources and instructions how to bu
 
 # How to build it
 
-## 3D printed parts
+![Wire Bending CNC schema](https://raw.githubusercontent.com/jpraus/wirebender/master/doc/wirebender-schematic.png)
 
-## Metal parts
+## Bender
 
-## Bed
+## Feeder
+
+## Straightener
 
 ## Electronics
 
