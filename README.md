@@ -17,3 +17,15 @@ Use:
 It's still work in progress I will add more resources and instructions how to build this soon.
 
 - [STL files](gerber/)
+
+# How to build it
+
+## 3D printed parts
+
+## Metal parts
+
+## Bed
+
+## Electronics
+
+## Putting it all together
