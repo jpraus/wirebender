@@ -1,6 +1,7 @@
 # Wire Bending CNC
 
 Precise wire bending CNC machine for wires at 1mm and less in diameter.
+
 Current version: **1.0** (2019-07-29)
 
 ![Wire Bending CNC](https://raw.githubusercontent.com/jpraus/wirebender/master/doc/DSC02872.JPG)
