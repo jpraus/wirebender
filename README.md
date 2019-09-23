@@ -18,7 +18,7 @@ Use:
 
 It's still work in progress I will add more resources and instructions how to build this soon.
 
-- [STL files](gerber/)
+- [STL files](stl/)
 
 # How to build it
 
