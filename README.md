@@ -71,4 +71,6 @@ Use:
 
 # How to build it
 
-Full tutorial available in [instructables.com](https://www.instructables.com/id/Spring-Making-Wire-Bending-Machine/)
+[![Watch the video](https://raw.githubusercontent.com/jpraus/wirebender/master/doc/introYoutube.png)](https://www.youtube.com/watch?v=WENEK-LJA6E)
+
+Full tutorial available on [instructables.com](https://www.instructables.com/id/Spring-Making-Wire-Bending-Machine/).
