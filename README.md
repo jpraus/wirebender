@@ -17,8 +17,6 @@ Use:
 
 ![Wire Bending CNC](https://raw.githubusercontent.com/jpraus/wirebender/master/doc/DSC04029.jpg)
 
-# Resources
-
 # Parts required
 
 ### 3D printed parts ([STL files](stl/))
